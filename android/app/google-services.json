@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555385724042",
+    "project_id": "meds-701dc",
+    "storage_bucket": "meds-701dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555385724042:android:4b51ecf1fca29fd434e173",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmVxxb26BKCQQoW5WOnhb1bfYSVv4770"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555385724042:android:5b58a4dfa2aa016c34e173",
+        "android_client_info": {
+          "package_name": "com.example.meds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmVxxb26BKCQQoW5WOnhb1bfYSVv4770"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
